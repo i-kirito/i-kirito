@@ -1,7 +1,7 @@
 # Hi I'm <a href="https://xazz.top">ikirito <img src="https://raw.githubusercontent.com/i-kirito/i-kirito/main/img/title.gif" style="width: 22%; display: inline-block;transform: translateY(20%) "></img></a> 
 
 <div align="center">
-<h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="transform: translateY(20%) "> 👻 ikirito | 🎓 Student | 🕹 Like Games  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="transform: translateY(20%)"></h2>
+<h3 style="font-size:1.6em;"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="transform: translateY(20%) "> 👻 ikirito | 🎓 Student | 🕹 Like Games  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="transform: translateY(20%)"></h3>
 <h4 align="center">
    <i>⚡️ The shortest way to do many things is to only one thing at a time. ⚡️</i>
 </h4>
