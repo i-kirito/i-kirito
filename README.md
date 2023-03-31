@@ -1,9 +1,10 @@
 # Hi I'm <a href="https://xazz.top">ikirito <img src="https://raw.githubusercontent.com/i-kirito/i-kirito/main/img/title.gif" style="max-width: 22%; display: inline-block;transform: translateY(20%) "></img></a> 
-<h5 align="center">
-   <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
-  </h5>
+
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👻 ikirito | 🎓 Student | 🕹 Like Games  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h5 align="center">
+   <i>⚡️The shortest way to do many things is to only one thing at a time.⚡️</i>
+</h5>
 </div>
 
 <details> 
