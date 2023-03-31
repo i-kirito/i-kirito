@@ -1,15 +1,16 @@
 # Hi I'm <a href="https://xazz.top">ikirito <img src="https://raw.githubusercontent.com/i-kirito/i-kirito/main/img/title.gif" style="width: 22%; display: inline-block;transform: translateY(20%) "></img></a> 
 
 <div align="center">
-<h3 style="font-size:1.5em;!important"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="transform: translateY(20%) "> 👻 ikirito | 🎓 Student | 🕹 Like Games  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="transform: translateY(20%)"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="transform: translateY(20%) "> 👻 ikirito | 🎓 Student | 🕹 Like Games  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="transform: translateY(20%)"></h3>
 <h4 align="center">
    <i>⚡️ The shortest way to do many things is to only one thing at a time. ⚡️</i>
 </h4>
 </div>
 
 <details> 
-  <h3>👨🏻‍💻 Programming and Markup Languages</h3>
-
+  <summary><h2><img src="https://media1.giphy.com/media/rtEv35BlofiLKbavvp/200.gif" width="30" style="transform: translateY(20%)"> 想尝试的东西</h2></summary>
+  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+    <h3>👨🏻‍💻 Programming and Markup Languages</h3>
 <p align="center">
     
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
@@ -28,11 +29,6 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
 </p>
-
-
-  <summary><h2>🛠️ 想尝试的东西</h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
