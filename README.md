@@ -1,4 +1,4 @@
-# Hi I'm <a href="https://xazz.top">ikirito <img src="https://raw.githubusercontent.com/i-kirito/i-kirito/main/img/title.gif" style="width: 22%; display: inline-block;transform: translateY(20%) "></img></a> 
+# Look <a href="https://xazz.top">there !</a> Nice to see you. <img src="https://raw.githubusercontent.com/i-kirito/i-kirito/main/img/title.gif" style="width: 22%; display: inline-block;transform: translateY(20%) "></img> 
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="transform: translateY(20%) "> 👻 ikirito | 🎓 Student | 🕹 Like Games  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="transform: translateY(20%)"></h3>
