@@ -1,5 +1,5 @@
-### Hello 我是xazz站点开发者ikirito 👋
-![GitHub followers](https://img.shields.io/github/followers/i-kirito?label=Follow&style=social)
+## Hi I'm ikirito 👋 ![GitHub followers](https://img.shields.io/github/followers/i-kirito?label=Follow&style=social)
+
 <h3>打赏支持~</h3>
 <p><a href="https://raw.githubusercontent.com/i-kirito/i-kirito/main/img/wechat.png" rel="nofollow">微信支付</a> | <a href="https://raw.githubusercontent.com/i-kirito/i-kirito/main/img/alipay.png" rel="nofollow">支付宝</a> | <a href="" rel="nofollow">PayPal</a></p>
 
