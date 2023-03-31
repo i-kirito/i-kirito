@@ -13,9 +13,10 @@
 - 📫 喜欢前端，学习前端，所以做前端。
 - ⚡ 需要一份工作，求职中。
 <!-- - 📝 我的简历 [Resume](https://xazz.top/resume/) -->
-
+- 👋 点击下面查看详情内容~
+  
 <details> 
-  <summary><h2><img src="https://media1.giphy.com/media/rtEv35BlofiLKbavvp/200.gif" width="40" style="transform: translateY(20%)"> In the midst of endeavor.</h2></summary>
+  <summary><h2><img src="https://media1.giphy.com/media/rtEv35BlofiLKbavvp/200.gif" width="40" style="transform: translateY(20%)"> In the midst of endeavor（努力进行时）.</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
     <h3>👨🏻‍💻 Programming and Markup Languages</h3>
 <p align="center">
@@ -128,7 +129,7 @@
   </details>
 </details>
 <details> 
-  <summary><h2><img src="https://media0.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="40" style="transform: translateY(20%)"> In the midst of endeavor.</h2></summary>
+  <summary><h2><img src="https://media0.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="40" style="transform: translateY(20%)"> Github Stats Card（信息卡片）.</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
 
@@ -149,5 +150,10 @@
   <br/>
 
 </details>
+
+## 项目卡片
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=i-kirito&repo=nav.github.io)](https://github.com/i-kirito/nav.github.io)
+
 <h3>打赏支持~</h3>
 <p><a href="https://raw.githubusercontent.com/i-kirito/i-kirito/main/img/wechat.png" rel="nofollow">微信支付</a> | <a href="https://raw.githubusercontent.com/i-kirito/i-kirito/main/img/alipay.png" rel="nofollow">支付宝</a> | <a href="" rel="nofollow">PayPal</a></p>
