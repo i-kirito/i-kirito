@@ -1,4 +1,4 @@
-# Hi I'm <a href="https://xazz.top">ikirito ![emoji](https://raw.githubusercontent.com/i-kirito/i-kirito/main/img/title.gif)</a> 
+# Hi I'm <a href="https://xazz.top">ikirito <img src="https://raw.githubusercontent.com/i-kirito/i-kirito/main/img/title.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></img></a> 
 <h5 align="center">
    <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
   </h5>
