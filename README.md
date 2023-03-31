@@ -8,7 +8,7 @@
 </div>
 
 <details> 
-  <summary><h2><img src="https://media1.giphy.com/media/rtEv35BlofiLKbavvp/200.gif" width="30" style="transform: translateY(20%)"> 想尝试的东西</h2></summary>
+  <summary><h2><img src="https://media1.giphy.com/media/rtEv35BlofiLKbavvp/200.gif" width="30" style="transform: translateY(20%)"> 努力进行时</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
     <h3>👨🏻‍💻 Programming and Markup Languages</h3>
 <p align="center">
