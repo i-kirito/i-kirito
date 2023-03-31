@@ -1,4 +1,6 @@
 ### Hi there 👋
+<h3>打赏支持~</h3>
+<p><a href="https://raw.githubusercontent.com/i-kirito/i-kirito/i-kirito/img/wechat.png" rel="nofollow">微信支付</a> | <a href="https://raw.githubusercontent.com/i-kirito/i-kirito/i-kirito/img/alipay.png" rel="nofollow">支付宝</a> | <a href="" rel="nofollow">PayPal</a></p>
 
 <!--
 **i-kirito/i-kirito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
