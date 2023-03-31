@@ -1,4 +1,8 @@
-## Hi I'm ikirito 👋 ![GitHub followers](https://img.shields.io/github/followers/i-kirito?label=Follow&style=social)
+## Hi I'm <a href="https://xazz.top">ikirito</a> 👋 ![GitHub followers](https://img.shields.io/github/followers/i-kirito?label=Follow&style=social)
+
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🌝 ikirito | 🎓 Student | 🕹 Like Games  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
 
 <h3>打赏支持~</h3>
 <p><a href="https://raw.githubusercontent.com/i-kirito/i-kirito/main/img/wechat.png" rel="nofollow">微信支付</a> | <a href="https://raw.githubusercontent.com/i-kirito/i-kirito/main/img/alipay.png" rel="nofollow">支付宝</a> | <a href="" rel="nofollow">PayPal</a></p>
