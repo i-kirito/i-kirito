@@ -157,4 +157,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=i-kirito&repo=nav.github.io)](https://github.com/i-kirito/nav.github.io)
 
 ### 爱发电支持我 *！*
-[微信支付](https://raw.githubusercontent.com/i-kirito/github/i-kirito/img/wechat.png) | [支付宝](https://raw.githubusercontent.com/i-kirito/github/i-kirito/img/alipay.png) | [PayPal](https://www.paypal.com/paypalme/ikirito9)
+[微信支付](img/wechat.png) | [支付宝](img/alipay.png) | [PayPal](https://www.paypal.com/paypalme/ikirito9)
