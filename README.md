@@ -17,6 +17,8 @@
 <!-- - 📝 我的简历 [Resume](https://xazz.top/resume/) -->
 - 👋 点击下面查看详情内容~
 
+<hr>
+
 <details> 
   <summary><h2><img src="https://media1.giphy.com/media/rtEv35BlofiLKbavvp/200.gif" width="40" style="transform: translateY(20%)"> In the midst of endeavor（努力进行时）.</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
