@@ -8,7 +8,7 @@
 </div>
 <br/>
 <br/>
-<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" title="code" witdh="60%">
+<img align="right" width="60%" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" title="code">
 
 > 看这里！这里是我的个人主页，欢迎来访！
 
