@@ -20,11 +20,11 @@
 <hr>
 <p align="center">
 <a href="#">
-    <img src="https://raw.githubusercontent.com/i-kirito/i-kirito/main/img/hugo.svg" alt="github" style="max-width:10%;">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/pronouns/hehim.svg" alt="github" style="max-width:10%;">
 </a>
 <p align="center">
-<a href="https://nav.xazz.top">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" alt="blog" style="max-width:10%;">
+<a href="http://nav.xazz.top">
+    <img src="https://raw.githubusercontent.com/i-kirito/i-kirito/main/img/hugo.svg" alt="twitter" style="max-width:10%;">
 </a>
 <a href="https://twitter.com/ikiritoxx">
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" alt="twitter" style="max-width:10%;">
