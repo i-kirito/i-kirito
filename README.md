@@ -11,10 +11,6 @@
 
 > 看这里！这里是我的个人主页，欢迎来访！
 
-<a href="#">
-    <img src="img/github-snake.svg" alt="github" style="max-width:35%;">
-</a>
-
 - 🌱 我是一名在校大学生，努力学习中。
 - ⚡ 喜欢前端，学习前端，所以做前端。
 - 💬 需要一份实习工作，寻求机会中。
@@ -46,7 +42,9 @@
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/streaming/youtube.svg" alt="youtube" style="max-width: 12%;">
 </a>
 </p>
-
+<a href="#">
+    <img src="img/github-snake.svg" alt="github">
+</a>
 <details> 
   <summary><h2><img src="https://media1.giphy.com/media/rtEv35BlofiLKbavvp/200.gif" width="40" style="transform: translateY(20%)"> In the midst of endeavor（努力进行时）.</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
