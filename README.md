@@ -18,15 +18,28 @@
 - 👋 点击下面查看详情内容 ~ 👇
 
 <hr>
-<p>
+<p align="center">
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/pronouns/hehim.svg" alt="github" style="max-width:10%;">
+</a>
+<p align="center">
+<a href="https://nav.xazz.top">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" alt="blog" style="max-width:10%;">
+</a>
 <a href="https://twitter.com/ikiritoxx">
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" alt="twitter" style="max-width:10%;">
 </a>
 <a href="https://steamcommunity.com/id/osakana-miao/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/steam.svg" alt="wordpress" style="max-width: 10%;">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/steam.svg" alt="steam" style="max-width: 10%;">
 </a>
 <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/email_me.svg" alt="wordpress" style="max-width: 12%;">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/email_me.svg" alt="eamil" style="max-width: 12%;">
+</a>
+<a href="https://t.me/ikirito9">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/telegram.svg" alt="telegram" style="max-width: 12%;">
+</a>
+<a href="https://www.youtube.com/@ikirito9">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/streaming/youtube.svg" alt="youtube" style="max-width: 12%;">
 </a>
 </p>
 
