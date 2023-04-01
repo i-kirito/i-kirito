@@ -10,7 +10,7 @@
 <div>
 <img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" title="code" style="width:70%">
 
-> 看这里！这里是我的个人主页，欢迎来访！
+> 看这里！很高兴遇见你，这里是我的个人主页，欢迎来访！
 <br/>
 
 - 🌱 我是一名在校大学生，正在努力的学习中。
