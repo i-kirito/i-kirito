@@ -7,6 +7,7 @@
 </h4>
 </div>
 
+<div>
 <img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" title="code" style="width:70%">
 
 > 看这里！这里是我的个人主页，欢迎来访！
@@ -15,7 +16,7 @@
 - ⚡ 喜欢前端，学习前端，所以做前端，也玩后端。
 - 💬 需要一份实习工作，寻求机会中（xdm别卷了！
 <!-- - 📝 我的简历 [Resume](https://xazz.top/resume/) -->
-
+</div>
 
 <hr>
 <p align="center">
