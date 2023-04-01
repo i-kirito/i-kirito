@@ -24,7 +24,7 @@
 </a>
 <p align="center">
 <a href="http://nav.xazz.top">
-    <img src="img/hugo.png" alt="hugo" style="max-width:12%;">
+    <img src="img/hugo.svg" alt="hugo" style="max-width:12%;">
 </a>
 <a href="https://twitter.com/ikiritoxx">
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" alt="twitter" style="max-width:10%;">
