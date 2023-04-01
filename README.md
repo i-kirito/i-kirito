@@ -8,7 +8,7 @@
 </div>
 
 <div>
-<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" title="code" style="width:370px；height：200px" >
+<img align="right" src="img/code.gif" title="code" style="width:370px；height：200px" >
 
 > 看这里！很高兴遇见你，这里是我的个人主页，欢迎来访！
 <br/>
