@@ -29,7 +29,7 @@
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/pronouns/hehim.svg" alt="github" style="max-width:10%;">
 </a>
 <p align="center">
-<a href="http://nav.xazz.top">
+<a href="https://xazz.top">
     <img src="img/hugo.png" alt="hugo" style="max-width:12%;">
 </a>
 <a href="https://twitter.com/ikiritoxx">
@@ -156,5 +156,5 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=i-kirito&repo=nav.github.io)](https://github.com/i-kirito/nav.github.io)
 
-<h3>打赏支持~</h3>
-<p><a href="https://raw.githubusercontent.com/i-kirito/i-kirito/main/img/wechat.png" rel="nofollow">微信支付</a> | <a href="https://raw.githubusercontent.com/i-kirito/i-kirito/main/img/alipay.png" rel="nofollow">支付宝</a> | <a href="" rel="nofollow">PayPal</a></p>
+### 爱发电支持我 *！*
+[微信支付](https://raw.githubusercontent.com/i-kirito/github/i-kirito/img/wechat.png) | [支付宝](https://raw.githubusercontent.com/i-kirito/github/i-kirito/img/alipay.png) | [PayPal](https://github.com/i-kirito/nav.github.io)
