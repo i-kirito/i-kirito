@@ -45,7 +45,7 @@
 <a href="#">
     <img src="img/github-snake.svg" alt="github">
 </a>
-<!-- <details>  -->
+<details> 
   <summary><h2><img src="https://media1.giphy.com/media/rtEv35BlofiLKbavvp/200.gif" width="40" style="transform: translateY(20%)"> In the midst of endeavor（努力进行时）.</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
   <!-- For more icons please follow https://github.com/MikeCodesDotNET/ColoredBadges -->
