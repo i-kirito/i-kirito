@@ -20,7 +20,7 @@
 <hr>
 <p align="center">
 <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/pronouns/hehim.svg" alt="github" style="max-width:10%;">
+    <img src="https://raw.githubusercontent.com/i-kirito/i-kirito/main/img/hugo.svg" alt="github" style="max-width:10%;">
 </a>
 <p align="center">
 <a href="https://nav.xazz.top">
