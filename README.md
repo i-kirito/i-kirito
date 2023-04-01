@@ -11,12 +11,11 @@
 <img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" title="code" style="width:70%">
 
 > 看这里！这里是我的个人主页，欢迎来访！
+<br/>
 
 - 🌱 我是一名在校大学生，正在努力的学习中。
-<br/>
 
 - ⚡ 喜欢前端，学习前端，所以做前端，也玩后端。
-<br/>
 
 - 💬 需要一份实习工作，寻求机会中（xdm别卷了！
 
