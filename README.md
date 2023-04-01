@@ -7,7 +7,7 @@
 </h4>
 </div>
 <br/>
-<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" title="code" style="width:60%">
+<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" title="code">
 
 > 看这里！这里是我的个人主页，欢迎来访！
 
