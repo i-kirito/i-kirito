@@ -13,19 +13,29 @@
 
 - 🌱 我是一名在校大学生，努力学习中。
 - ⚡ 喜欢前端，学习前端，所以做前端。
-- 💬 需要一份工作，求职中。
+- 💬 需要一份实习工作，寻求机会中。
 <!-- - 📝 我的简历 [Resume](https://xazz.top/resume/) -->
-- 👋 点击下面查看详情内容~
+- 👋 点击下面查看详情内容 ~ 👇
 
 <hr>
+<p>
+<a href="https://twitter.com/ikiritoxx">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" alt="twitter" style="max-width:10%;">
+</a>
+<a href="https://steamcommunity.com/id/osakana-miao/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/steam.svg" alt="wordpress" style="max-width: 10%;">
+</a>
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/email_me.svg" alt="wordpress" style="max-width: 12%;">
+</a>
+</p>
 
 <details> 
   <summary><h2><img src="https://media1.giphy.com/media/rtEv35BlofiLKbavvp/200.gif" width="40" style="transform: translateY(20%)"> In the midst of endeavor（努力进行时）.</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+  <!-- For more icons please follow https://github.com/MikeCodesDotNET/ColoredBadges -->
     <h3>👨🏻‍💻 Programming and Markup Languages</h3>
 <p align="center">
-    
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
