@@ -11,9 +11,10 @@
 <img align="right" src="img/code.gif" title="code" style="width:370px；height：200px" >
 
 > 看这里！很高兴遇见你，这里是我的个人主页，欢迎来访！
+
 <br/>
 
-- 🌱 我是一名在校大学生，正在努力的学习中。
+- 🌱 我是一名在校大学生，正在努力成为一个大佬。
 
 - ⚡ 喜欢前端，学习前端，所以做前端，也玩后端。
 
@@ -22,7 +23,7 @@
 <!-- - 📝 我的简历 [Resume](https://xazz.top/resume/) -->
 </div>
 
-<hr>
+<hr width="45%">
 <p align="center">
 <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/pronouns/hehim.svg" alt="github" style="max-width:10%;">
