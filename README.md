@@ -7,7 +7,7 @@
 </h4>
 </div>
 
-<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" title="code" style="width:80%">
+<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" title="code" style="width:70%">
 
 > 看这里！这里是我的个人主页，欢迎来访！
 
@@ -15,7 +15,7 @@
 - ⚡ 喜欢前端，学习前端，所以做前端，也玩后端。
 - 💬 需要一份实习工作，寻求机会中（xdm别卷了！
 <!-- - 📝 我的简历 [Resume](https://xazz.top/resume/) -->
-- 👋 点击下面查看详情内容 ~ 👇
+
 
 <hr>
 <p align="center">
@@ -45,6 +45,8 @@
 <a href="#">
     <img src="img/github-snake.svg" alt="github">
 </a>
+
+> 👋 点击下面查看详情内容 ~ 👇
 <details> 
   <summary><h2><img src="https://media1.giphy.com/media/rtEv35BlofiLKbavvp/200.gif" width="40" style="transform: translateY(20%)"> In the midst of endeavor（努力进行时）.</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
