@@ -6,10 +6,12 @@
    <i>⚡️ The shortest way to do many things is to only one thing at a time. ⚡️</i>
 </h4>
 </div>
+<br/>
+<br/>
 
 > 看这里！这里是我的个人主页，欢迎来访！
 
-<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" src="code" title="code" style="width=45%;">
+<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" src="code" title="code" style="width:30%;transform: translate(-30%,-25%)">
 
 - 🌱 我是一名在校大学生，努力学习中。
 - ⚡ 喜欢前端，学习前端，所以做前端。
