@@ -1,7 +1,7 @@
 # Look <a href="https://xazz.top">here !</a> Nice to see you. <img src="https://raw.githubusercontent.com/i-kirito/i-kirito/main/img/title.gif" style="width: 25%; display: inline-block;transform: translateY(20%) "></img> 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="transform: translateY(20%) "> 👻 ikirito | 🎓 Student | 🎮 Like Games  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="transform: translateY(20%)"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="width:30px; transform: translateY(20%) "> 👻 ikirito | 🎓 Student | 🎮 Like Games  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="width:30px; transform: translateY(20%)"></h3>
 <h4 align="center">
    <i>⚡️ The shortest way to do many things is to only one thing at a time. ⚡️</i>
 </h4>
@@ -11,7 +11,7 @@
 
 > 看这里！这里是我的个人主页，欢迎来访！
 
-<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="65%" title="code" style="transform: translate(-60%,-25%)">
+<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" title="code" style="width:65%; transform: translate(-60%,-25%)">
 
 - 🌱 我是一名在校大学生，努力学习中。
 - ⚡ 喜欢前端，学习前端，所以做前端。
