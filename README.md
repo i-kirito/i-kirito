@@ -8,13 +8,14 @@
 </div>
 
 > 看这里！这里是我的个人主页，欢迎来访！
+
 <img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" src="code" title="code" style="width=45%;">
+
 - 🌱 我是一名在校大学生，努力学习中。
 - ⚡ 喜欢前端，学习前端，所以做前端。
 - 💬 需要一份工作，求职中。
 <!-- - 📝 我的简历 [Resume](https://xazz.top/resume/) -->
 - 👋 点击下面查看详情内容~
-
 
 <details> 
   <summary><h2><img src="https://media1.giphy.com/media/rtEv35BlofiLKbavvp/200.gif" width="40" style="transform: translateY(20%)"> In the midst of endeavor（努力进行时）.</h2></summary>
