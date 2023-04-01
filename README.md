@@ -49,7 +49,7 @@
   <summary><h2><img src="https://media1.giphy.com/media/rtEv35BlofiLKbavvp/200.gif" width="40" style="transform: translateY(20%)"> In the midst of endeavor（努力进行时）.</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
   <!-- For more icons please follow https://github.com/MikeCodesDotNET/ColoredBadges -->
-    <h3>👨🏻‍💻 Study Now</h3>
+    <h3>👨🏻‍💻 Study And Play Now</h3>
 <p align="center">
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
