@@ -155,6 +155,7 @@
 ### 项目卡片 ❤
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=i-kirito&repo=nav.github.io)](https://github.com/i-kirito/nav.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=i-kirito&repo=doks.github.io)](https://github.com/i-kirito/doks.github.io)
 
 ### 爱发电支持我 *！*
 [微信支付](https://raw.githubusercontent.com/i-kirito/i-kirito/main/img/wechat.png) | [支付宝](https://raw.githubusercontent.com/i-kirito/i-kirito/main/img/alipay.png) | [PayPal](https://www.paypal.com/paypalme/ikirito9)
