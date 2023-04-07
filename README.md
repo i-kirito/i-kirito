@@ -29,11 +29,11 @@
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/pronouns/hehim.svg" alt="github" style="max-width:10%;">
 </a>
 <p align="center">
-<a href="https://xazz.top">
-    <img src="img/hugo.png" alt="hugo" style="max-width:12%;">
+<a href="https://ikirito.top">
+    <img src="img/personalblog.svg" alt="hugo" style="max-width:15%;">
 </a>
 <a href="https://twitter.com/ikiritoxx">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" alt="twitter" style="max-width:10%;">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg" alt="twitter" style="max-width:10%;">
 </a>
 <a href="https://steamcommunity.com/id/osakana-miao/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/steam.svg" alt="steam" style="max-width: 10%;">
