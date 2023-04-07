@@ -30,7 +30,7 @@
 </a>
 <p align="center">
 <a href="https://ikirito.me">
-    <img src="img/personalblog.svg" alt="hugo" style="max-width:15%;">
+    <img src="https://raw.githubusercontent.com/i-kirito/i-kirito/22fd637121fa868f1c138910462d404452ce8deb/img/personalBlog.svg" alt="hugo" style="max-width:15%;">
 </a>
 <a href="https://twitter.com/ikiritoxx">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg" alt="twitter" style="max-width:10%;">
