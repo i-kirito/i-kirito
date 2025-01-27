@@ -1,7 +1,7 @@
 # Look [there](https://ikirito.me) ! Nice to see you. <img src="https://raw.githubusercontent.com/i-kirito/i-kirito/main/img/title.gif" style="width: 25%; display: inline-block;transform: translateY(20%) "></img>
 
 <div align="center">
-<h4><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="width:30px; transform: translateY(20%) "> 👻 ikirito | 🎓 Student | 🎮 Like Games  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="width:30px; transform: translateY(20%)"></h4>
+<h4>👻 ikirito | 🎓 Student | 🎮 Like Games  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="width:30px; transform: translateY(20%)"></h4>
 <h4 align="center">
    <i>⚡️ The shortest way to do many things is to only one thing at a time. ⚡️</i>
 </h4>
